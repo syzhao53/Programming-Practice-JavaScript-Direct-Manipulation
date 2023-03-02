@@ -1,0 +1,23 @@
+{
+  "name": "programming-practice-html-and-css-basics-ii",
+  "version": "1.0.0",
+  "description": "",
+  "main": "story.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syzhao53/Programming-Practice-CSS-Layout-and-JavaScript-Basics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syzhao53/Programming-Practice-CSS-Layout-and-JavaScript-Basics/issues"
+  },
+  "homepage": "https://github.com/syzhao53/Programming-Practice-CSS-Layout-and-JavaScript-Basics#readme",
+  "dependencies": {
+    "paper": "^0.12.17"
+  }
+}
